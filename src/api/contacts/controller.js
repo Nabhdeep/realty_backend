@@ -1,3 +1,4 @@
 export const home = (req , res)=>{
-return res.status(200).json('DONE')
+  return new Promise((resolve , reject)=>{
+  })
 }
